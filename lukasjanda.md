@@ -1,4 +1,4 @@
-OpenSourcelover
+﻿OpenSourcelover
 ===============
 
 [FCK editor](https://github.com/molpe/fckeditor) hodně povedenej wysiwyg editor 
@@ -11,4 +11,4 @@ OpenSourcelover
 
 [Pretty Popin](https://github.com/mihdan/prettyPopin) Zjednodušená varianta Pretty Photo
 
-[jQuery Vector Map](https://github.com/manifestinteractive/jqvmap) jquery interaktviní mapa
+[jQuery Vector Map](https://github.com/manifestinteractive/jqvmap) jquery interaktivní mapa
